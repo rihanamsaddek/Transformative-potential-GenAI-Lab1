@@ -1,24 +1,24 @@
 Product ID,Product Name,Region,Sales Channel,Quarter,Units Sold,Revenue,Profit Margin
-M001,Social Media Marketing Campaign,North America,Online,Q1,"$5,000 ","$50,000 ",15%
-M001,Social Media Marketing Campaign,North America,Online,Q2,"$6,000 ","$60,000 ",18%
-M001,Social Media Marketing Campaign,North America,Online,Q3,"$7,000 ","$70,000 ",20%
-M001,Social Media Marketing Campaign,North America,Online,Q4,"$8,000 ","$80,000 ",22%
-M002,SEO Optimization,Europe,Online,Q1,"$2,000 ","$40,000 ",25%
-M002,SEO Optimization,Europe,Online,Q2,"$2,500 ","$50,000 ",28%
-M002,SEO Optimization,Europe,Online,Q3,"$3,000 ","$60,000 ",30%
-M002,SEO Optimization,Europe,Online,Q4,"$3,500 ","$70,000 ",32%
-M003,Content Marketing Strategy,Asia,Partner,Q1,"$1,000 ","$20,000 ",10%
-M003,Content Marketing Strategy,Asia,Partner,Q2,"$1,200 ","$24,000 ",12%
-M003,Content Marketing Strategy,Asia,Partner,Q3,"$1,500 ","$30,000 ",15%
-M003,Content Marketing Strategy,Asia,Partner,Q4,"$1,800 ","$36,000 ",18%
-M004,Email Marketing Campaign,North America,Online,Q1,"$4,000 ","$32,000 ",12%
-M004,Email Marketing Campaign,North America,Online,Q2,"$4,500 ","$36,000 ",14%
-M004,Email Marketing Campaign,North America,Online,Q3,"$5,000 ","$40,000 ",16%
-M004,Email Marketing Campaign,North America,Online,Q4,"$5,500 ","$44,000 ",18%
-M005,Pay-Per-Click Advertising,Europe,Online,Q1,"$1,500 ","$30,000 ",20%
-M005,Pay-Per-Click Advertising,Europe,Online,Q2,"$1,800 ","$36,000 ",22%
-M005,Pay-Per-Click Advertising,Europe,Online,Q3,"$2,100 ","$42,000 ",24%
-M005,Pay-Per-Click Advertising,Europe,Online,Q4,"$2,400 ","$48,000 ",26%
+M001,Social Media Marketing Campaign,North America,Online,Q1,5000,"$50,000 ",15%
+M001,Social Media Marketing Campaign,North America,Online,Q2,6000,"$60,000 ",18%
+M001,Social Media Marketing Campaign,North America,Online,Q3,7000,"$70,000 ",20%
+M001,Social Media Marketing Campaign,North America,Online,Q4,8000,"$80,000 ",22%
+M002,SEO Optimization,Europe,Online,Q1,2000,"$40,000 ",25%
+M002,SEO Optimization,Europe,Online,Q2,2500,"$50,000 ",28%
+M002,SEO Optimization,Europe,Online,Q3,3000,"$60,000 ",30%
+M002,SEO Optimization,Europe,Online,Q4,3500,"$70,000 ",32%
+M003,Content Marketing Strategy,Asia,Partner,Q1,1000,"$20,000 ",10%
+M003,Content Marketing Strategy,Asia,Partner,Q2,1200,"$24,000 ",12%
+M003,Content Marketing Strategy,Asia,Partner,Q3,1500,"$30,000 ",15%
+M003,Content Marketing Strategy,Asia,Partner,Q4,1800,"$36,000 ",18%
+M004,Email Marketing Campaign,North America,Online,Q1,4000,"$32,000 ",12%
+M004,Email Marketing Campaign,North America,Online,Q2,4500,"$36,000 ",14%
+M004,Email Marketing Campaign,North America,Online,Q3,5000,"$40,000 ",16%
+M004,Email Marketing Campaign,North America,Online,Q4,5500,"$44,000 ",18%
+M005,Pay-Per-Click Advertising,Europe,Online,Q1,1500,"$30,000 ",20%
+M005,Pay-Per-Click Advertising,Europe,Online,Q2,1800,"$36,000 ",22%
+M005,Pay-Per-Click Advertising,Europe,Online,Q3,2100,"$42,000 ",24%
+M005,Pay-Per-Click Advertising,Europe,Online,Q4,2400,"$48,000 ",26%
 M006,Brand Building & Awareness,Asia,Partner,Q1,800,"$16,000 ",8%
 M006,Brand Building & Awareness,Asia,Partner,Q2,900,"$18,000 ",10%
 M006,Brand Building & Awareness,Asia,Partner,Q3,1000,"$20,000 ",12%
